@@ -1,4 +1,4 @@
-### Currency Convertor
+### Currency Convertor using ExchangeRate API 
 A simple currency converter application built with Streamlit. It allows users to convert amounts between different currencies using exchange rates.
 ### Features
 - Convert amounts between various currencies.
